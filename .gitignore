@@ -1,4 +1,6 @@
-/home/zw360/Workspace/experiments/co-correlation/dataset/
-/home/zw360/Workspace/experiments/co-correlation/log/
-/home/zw360/Workspace/experiments/co-correlation/spare_room/
-
+dataset/
+log/
+spare_room/
+temp.py
+test.ipynb
+test.py
